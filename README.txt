@@ -1,12 +1,12 @@
-#Musical Horoscopes Bot
+# Musical Horoscopes Bot
 
-##About
+## About
 
 The Musical Horoscope Bot was created to give users the ability to get their daily horoscope while also recieving a song to go along with it. Each horoscope comes with a unique song for each person!
 
 It was created with Node.js
 
-##How To Use
+## How To Use
 
 To get your horoscope, all you have to do is tweet @ it with your birthday in xx/xx/xxxx form. 
 
